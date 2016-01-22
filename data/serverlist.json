@@ -769,6 +769,13 @@
       "icon": null,
       "language": "EN",
       "title": "Rivals of Aether"
+    },
+    "Paladins": {
+      "code": "0eFFwUtni6I6MttK",
+      "description": "Paladins",
+      "icon": null,
+      "language": "EN",
+      "title": "Paladins"
     }
   }
 }
